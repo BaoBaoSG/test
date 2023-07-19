@@ -9,6 +9,7 @@ To execute the recorded steps:
   + Chrome browser: Version 114.0.5735.199 (Official Build) (64-bit)
 - Step to reproduce:
   + Open Selenium IDE > Open an existing project > Choose Test_inventory.side file > Open
+  + Please set speed run around 70%-80% to get the best result
   + Click the "Play" button to execute the recorded steps.
 
 Please wait progress completed and check result.
